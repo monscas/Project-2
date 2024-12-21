@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prehistoric Animal Eras</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Rise of Mammals</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="paleozoic.html">PALEOZOIC ERA</a></li>
+                <li><a href="mesozoic.html">MESOZOIC ERA</a></li>
+                <li><a href="cenozoic.html">CENOZOIC ERA</a></li>
+                <li><a href="contact.html">CONTACT ME</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h2>Animals of the Cenozoic Era</h2>
+
+    <div class="animal">
+        <h3>Paleogene Period: <span class="period">66-23 million years ago</span></h3>
+        <img src="gast.jpg" alt="Paleogene Mammal">
+        <h4>Gastornis</h4>
+        <p><strong>Description:</strong> Gastornis, also known as Diatryma, was a large, flightless bird that lived during the Paleocene and Eocene epochs, around 56 to 33 million years ago. It was characterized by its towering height of up to 8 feet (2.5 meters) and a large, robust body. This bird had powerful legs and a strong beak, with some species showing adaptations for processing tough plant material. Its long legs and large feet suggest it was well-suited for running, and its size and structure indicate that it may have been a formidable terrestrial predator or an herbivore, depending on the species and local conditions. Gastornis had no wings and was incapable of flight, though it likely used its size and strength to defend itself from predators.</p>
+        <p><strong>Interesting Facts:</strong> The exact diet of Gastornis has been a subject of debate among paleontologists. Early interpretations suggested it was a carnivore, preying on smaller animals, due to its large, powerful beak. However, more recent evidence points toward it being herbivorous, feeding on seeds, fruits, and other plant matter, based on the structure of its jaw and beak. Fossils of Gastornis have been found in both North America and Europe, suggesting that it was a widely distributed species. Despite its large size, it coexisted with early mammals, particularly after the mass extinction event that wiped out the non-avian dinosaurs.</p>
+        <p><strong>Scientific Importance:</strong> Gastornis is important because it provides insight into the early evolution of large, flightless birds in the aftermath of the mass extinction that ended the reign of the dinosaurs. As one of the largest birds of the Paleocene and Eocene, it helps scientists understand the development of terrestrial megafauna during the early Cenozoic era. Its size and potential role as an apex herbivore or predator offer a glimpse into how ecosystems adapted and changed in the wake of the dinosaur extinction. Additionally, the fossil evidence of Gastornis contributes to the broader understanding of avian evolution, particularly the diversification of large, flightless birds that would later lead to modern species like ostriches and emus.</p>
+    </div>
+
+    <!-- Neogene Period -->
+    <div class="animal">
+        <h3>Neogene Period: <span class="period">23-2.6 million years ago</span></h3>
+        <img src="megal.jpg" alt="Megaloceros">
+        <h4>Megaloceros</h4>
+        <p><strong>Description:</strong> Megaloceros, commonly known as the "Irish elk," was a massive herbivorous mammal that lived during the Pleistocene epoch, around 400,000 to 7,700 years ago. Despite its nickname, Megaloceros was not an elk but a member of the deer family (Cervidae). It is most famous for its enormous antlers, which could span up to 12 feet (3.6 meters) from tip to tip, making them the largest antlers of any known terrestrial animal. Megaloceros had a large, robust body, standing around 6 feet (1.8 meters) at the shoulder and weighing up to 1,500 pounds (680 kg). It was a grazer, feeding on grasses, shrubs, and other vegetation in the vast landscapes of Ice Age Europe and Asia.</p>
+        <p><strong>Interesting Facts:</strong> The massive antlers of Megaloceros are one of its most striking features, and they were likely used in displays of dominance and for fighting during the mating season, much like modern deer. However, the extreme size of the antlers may have also made Megaloceros vulnerable to environmental changes, as they required significant energy to grow and maintain. Fossil evidence suggests that Megaloceros roamed in herds, often in open woodlands and grassy plains, and it had a relatively wide distribution, found across Europe and parts of Asia. Its large size and antlers have made it a symbol of Ice Age megafauna.</p>
+        <p><strong>Scientific Importance:</strong> Megaloceros is significant for understanding the evolution of large herbivores during the Pleistocene and their adaptations to cold, open landscapes. The species' immense antlers provide valuable insight into sexual selection and the role of physical traits in mate competition. Additionally, the extinction of Megaloceros at the end of the Pleistocene is often attributed to the combined effects of climate change and hunting pressure from early humans. Studying Megaloceros helps paleontologists understand the broader ecological dynamics of the Ice Age, the interactions between large mammals and their environment, and the factors contributing to the extinction of many megafaunal species at the close of the Pleistocene epoch.</p>
+    </div>
+
+    <!-- Quaternary Period -->
+    <div class="animal">
+        <h3>Quaternary Period: <span class="period">2.6 million years ago - present</span></h3>
+        <img src="mammoth.jpg" alt="Mammoth">
+        <h4>Woolly Mammoth</h4>
+        <p><strong>Description:</strong> The Woolly Mammoth was a large, cold-adapted elephant species that lived during the Pleistocene epoch, with populations persisting until around 4,000 years ago. It stood about 10 to 13 feet (3 to 4 meters) tall at the shoulder and weighed up to 6,000 kg (13,200 lbs). This mammoth was covered in a thick, shaggy coat of hair to protect it from the harsh, icy environments of the Ice Age, along with a layer of fat for insulation. Woolly Mammoths also had long, curved tusks, which could grow up to 15 feet (4.5 meters) long. These tusks were likely used for foraging, defense, and social interactions. Their diet primarily consisted of grasses, shrubs, and other vegetation that thrived in the cold, open landscapes of the time.</p>
+        <p><strong>Interesting Facts:</strong>Woolly Mammoths were well-adapted to cold climates, with features like a woolly coat, a fat layer under their skin, and smaller ears to minimize heat loss. They also had a specialized trunk, which allowed them to forage for food beneath the snow. Fossil evidence shows that they lived in herds, much like modern elephants, and had a social structure with strong family bonds. The Woolly Mammoth went extinct around 10,000 years ago, likely due to a combination of climate change and overhunting by early humans. However, small populations of Woolly Mammoths survived on Wrangel Island in the Arctic Ocean until as recently as 4,000 years ago.</p>
+        <p><strong>Scientific Importance:</strong> The Woolly Mammoth is one of the most iconic creatures of the Ice Age and plays a crucial role in understanding the megafauna that roamed the Pleistocene. It helps scientists study how large mammals adapted to extreme cold and the ecological changes that occurred during the transition from the Pleistocene to the Holocene. The extinction of Woolly Mammoths is often used as a case study in the effects of climate change and human activity on large species. Additionally, their remains have contributed to significant scientific research, including studies on ancient DNA and the potential for de-extinction, as well as offering insights into the diets, behavior, and migration patterns of Ice Age animals.</p>
+    </div>
